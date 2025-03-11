@@ -80,6 +80,5 @@ redirect_from:
 - Multimodal Models
 
 🌐 **Languages**  
-- Armenian (Native) | English (Fluent) | Russian (Fluent)  
----
+- Armenian (Native) | English (Fluent) | Russian (Fluent)
   
