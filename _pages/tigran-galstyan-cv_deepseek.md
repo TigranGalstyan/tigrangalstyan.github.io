@@ -1,13 +1,10 @@
----
-layout: archive
-title: "Resume"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+# Tigran Galstyan  
+#### 🎓 PhD Candidate in Computer Science | 🧠 Machine Learning Researcher  
+📍 3/11 Avan-Ariuj, Yerevan, Armenia 0022  
+📱 +374 (91) 00-45-49 | 📧 galstyantik@gmail.com  
+🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [Google Scholar](https://scholar.google.com)  
 
-{% include base_path %}
+---
 
 ## 🎓 Education  
 
