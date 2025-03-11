@@ -11,6 +11,29 @@ Something about me.
 
 # Publications
 
+## Conference Papers
+
+1. **Teaching Visual Language Models to Navigate using Maps**  
+   Nurijanyan, N., Tamazyan, H., Galstyan, T.   (2025)
+   *7th Robot Learning Workshop: Towards Robots with Human-Level Abilities*
+
+2. **Statistically Optimal Generative Modeling with Maximum Deviation from the Empirical Distribution**  
+   Vardanyan, E., Minasyan, A., Hunanyan, S., Galstyan, T., Dalalyan, A. (2023)  
+   *Proceedings of the 41st International Conference on Machine Learning, PMLR*, 235, 49203-49225  
+
+3. **Matching Map Recovery with an Unknown Number of Outliers**  
+   Minasyan, A., Galstyan, T., Hunanyan, S., Dalalyan, A. (2023)  
+   *International Conference on Artificial Intelligence and Statistics*, 891-906  
+   Publisher: PMLR  
+
+4. **Failure modes of domain generalization algorithms**  
+   Galstyan, T., Harutyunyan, H., Khachatrian, H., Steeg, G.V., Galstyan, A. (2022)  
+   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 19077-19086  
+
+5. **BioRelEx 1.0: Biological relation extraction benchmark**  
+   Khachatrian, H., Nersisyan, L., Hambardzumyan, K., Galstyan, T., Hakobyan, A., Arakelyan, A., Rzhetsky, A., Galstyan, A. (2019)  
+   *Proceedings of the 18th bionlp workshop and shared task*, 176-190  
+
 ## Journal Articles
 
 1. **Optimality of the Least Sum of Logarithms in the Problem of Matching Map Recovery in the Presence of Noise and Outliers**  
@@ -32,30 +55,6 @@ Something about me.
 5. **On the Tradeoff Between Accuracy and Fairness in Representation Learning**  
    Galstyan, T., Khachatrian, H. (2020)  
    *Vestnik of Russian-Armenian University*, 1, 35-46  
-
-## Conference Papers
-
-1. **Teaching Visual Language Models to Navigate using Maps**  
-   Nurijanyan, N., Tamazyan, H., Galstyan, T.   (2025)
-
-   *7th Robot Learning Workshop: Towards Robots with Human-Level Abilities*
-
-2. **Statistically Optimal Generative Modeling with Maximum Deviation from the Empirical Distribution**  
-   Vardanyan, E., Minasyan, A., Hunanyan, S., Galstyan, T., Dalalyan, A. (2023)  
-   *Proceedings of the 41st International Conference on Machine Learning, PMLR*, 235, 49203-49225  
-
-3. **Matching Map Recovery with an Unknown Number of Outliers**  
-   Minasyan, A., Galstyan, T., Hunanyan, S., Dalalyan, A. (2023)  
-   *International Conference on Artificial Intelligence and Statistics*, 891-906  
-   Publisher: PMLR  
-
-4. **Failure modes of domain generalization algorithms**  
-   Galstyan, T., Harutyunyan, H., Khachatrian, H., Steeg, G.V., Galstyan, A. (2022)  
-   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 19077-19086  
-
-5. **BioRelEx 1.0: Biological relation extraction benchmark**  
-   Khachatrian, H., Nersisyan, L., Hambardzumyan, K., Galstyan, T., Hakobyan, A., Arakelyan, A., Rzhetsky, A., Galstyan, A. (2019)  
-   *Proceedings of the 18th bionlp workshop and shared task*, 176-190  
 
 
 ## Preprints
