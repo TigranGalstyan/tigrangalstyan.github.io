@@ -31,8 +31,8 @@ redirect_from:
 ### **YerevanN Research Lab**  
 #### 🧠 Machine Learning Researcher | 📅 July 2016 – Present  
 📍 Yerevan, Armenia  
-- Led **Aerial Vision-and-Language Navigation for UAVs** using multimodal models (LLaVA, Chameleon)  
-- Developed statistical methods for feature matching map recovery ([Paper](https://proceedings.mlr.press/v206/minasvan23a/minasvan23a.pdf) | [Code](https://github.com/TigranGalstyan/Matching-Map-Recovery-with-Outliers))  
+- Led **Aerial Vision-and-Language Navigation for UAVs** project using multimodal models (LLaVA, Qwen)  
+- Developed statistical methods for feature matching map recovery ( [Paper](https://proceedings.mlr.press/v206/minasvan23a/minasvan23a.pdf) /  [Code](https://github.com/TigranGalstyan/Matching-Map-Recovery-with-Outliers) )  
 - Pioneered work on domain generalization failures ([Code](https://github.com/YerevanNN/dom-gen-failure-modes))  
 - Built **BioreIEx biological relation extraction system** ([ACL Paper](https://www.aclweb.org/anthology/W19-5019/))  
 - Created LSTM-based transliteration models ([Blog](https://yerevann.github.io/2016/09/09/automatic-transliteration-with-lstm))  
@@ -44,7 +44,7 @@ redirect_from:
 
 ---
 
-## 🌟 Google Internships  
+##  Internships  
 
 ### **X, the Moonshot Factory**  
 #### 🤖 Software Engineering Intern | 📅 Jun–Aug 2019 | 🇩🇪 Munich  
@@ -61,39 +61,25 @@ redirect_from:
 
 ---
 
-## 📚 Publications  
-
-1. **Statistically Optimal Generative Modeling with Maximum Deviation from the Empirical Distribution**  
-   Vardanyan E., Hunanyan S., **Galstyan T.**, et al. (2024). *ICML*  
-2. **Matching Map Recovery with an Unknown Number of Outliers**  
-   Minasyan A., **Galstyan T.**, et al. (2023). *AISTATS*  
-3. **Failure Modes of Domain Generalization Algorithms**  
-   **Galstyan T.**, Harutyunyan H., et al. (2022). *CVPR*  
-4. **Biorelex 1.0: Biological Relation Extraction Benchmark**  
-   Khachatrian H., **Galstyan T.**, et al. (2019). *ACL BioNLP Workshop*  
-
-*(10+ total publications in ICML, CVPR, EJS, and more)*  
-
----
-
 ## 🏆 Honors & Awards  
-- 🥉 **Bronze Medal**, International Olympiad in Informatics (IOI 2014)  
-- 🥉 **Bronze Medal**, Zhautikov Olympiad in Informatics (2014)  
-- 🏅 **Finalist**, Google Hashcode (2017, 2018)  
+🥉 **Bronze Medal**, International Olympiad in Informatics (IOI 2014)  
+🥉 **Bronze Medal**, Zhautikov Olympiad in Informatics (2014)  
+🏅 **Finalist**, Google Hashcode (2017, 2018)  
 
 ---
 
 ## 🛠 Skills  
-| **Category**       | **Details**                                      |
-|---------------------|--------------------------------------------------|
-| **Programming**    | Python (NumPy, PyTorch), LLMs, Neural Networks   |
-| **Machine Learning**| Domain Generalization, Vision-Language Models    |
-| **Languages**      | Armenian (Native), English, Russian (Fluent)    |
 
+💻 **Programming**  
+- Python (NumPy, PyTorch, Tensorflow, Scikit-learn)  
+- Machine Learning Pipelines, LLM Fine-tuning  
+- Competitive Programming (Codeforces, HackerRank)  
+
+🧠 **ML Specializations**  
+- Domain Generalization & Invariant Learning  
+- Multimodal Models
+
+🌐 **Languages**  
+- Armenian (Native) | English (Fluent) | Russian (Fluent)  
 ---
-
-## 📜 References  
-1. **Arnak Dalalyan**  
-   Director at CREST, France | PhD Co-Advisor  
-2. **Aram Galstyan**  
-   Distinguished Principal Scientist, USC ISI | Research Mentor  
+  
