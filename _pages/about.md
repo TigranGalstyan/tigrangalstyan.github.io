@@ -14,7 +14,7 @@ Something about me.
 ## Conference Papers
 
 1. **Teaching Visual Language Models to Navigate using Maps**  
-   Nurijanyan, N., Tamazyan, H., Galstyan, T.   (2025)
+   Nurijanyan, N., Tamazyan, H., Galstyan, T.   (2025)\
    *7th Robot Learning Workshop: Towards Robots with Human-Level Abilities*
 
 2. **Statistically Optimal Generative Modeling with Maximum Deviation from the Empirical Distribution**  
