@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Something about me.
-
+I'm a Machine Learning Researcher and PhD graduate passionate about solving problems at the intersection of computer vision, statistical learning, and optimization. Based in Yerevan, Armenia, I spend my time developing both theoretical foundations and practical ML solutions. I recently completed my Ph.D. degree in Computer Science from the Institute for Informatics and Automation Problems of NAS RA with the specialization "Statistical and Computational Complexity of the Feature Matching Map Detection Problem". My research journey started with competitive programming (Bronze Medal at IOI 2014) and evolved through collaborations with Google's teams in NYC, Zurich, and Munich, where I worked on everything from YouTube's captioning system to robotics projects. Currently at YerevaNN, I focused on robust learning algorithms, the statistical foundations that make AI systems reliable and recently teaching visual language models to navigate. My work has been published at venues like ICML, AISTATS, and CVPR. 
 # Publications
 
 ## Conference Papers
