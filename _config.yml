@@ -23,11 +23,11 @@ author:
   avatar           : "pfp.jpg"
   name             : "Tigran Galstyan"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist @ YSU"
-  location         : "Yerevan, Armenia"
-  employer         : "YerevaNN // Yerevan State University"
+  bio              : "PostDoctoral Research @ L2S - CentraleSupélec"
+  location         : "Paris, France"
+  employer         : "CNRS"
   uri              : # URL
-  email            : "tigran@yerevann.com"
+  email            : "tigran.galstyan@l2s.centralesupelec.fr"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
