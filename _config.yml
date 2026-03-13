@@ -34,7 +34,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=RqqMcAEAAAAJ"
   impactstory      : # URL
   orcid            :
-  semantic         : "semanticscholar.org/author/T.-Galstyan/151452907"
+  semantic         : "https://www.semanticscholar.org/author/T.-Galstyan/151452907"
   pubmed           : #
   researchgate     : # URL
   scopus           : # URL
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/galstyantik/"
+  linkedin         : "galstyantik"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
