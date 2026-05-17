@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Tigran Galstyan"
 title_separator          : "-"
 name                     : &name "Tigran Galstyan"
-description              : &description ""
+description              : &description "Postdoctoral researcher at L2S, CentraleSupélec. Statistical learning theory, optimization, and computer vision."
 url                      : https://tigrangalstyan.github.io
 baseurl                  : ""
 repository               : "tigrangalstyan/tigrangalstyan.github.io"
@@ -23,9 +23,9 @@ author:
   avatar           : "pfp.jpg"
   name             : "Tigran Galstyan"
   pronouns         : # example: "she/her"  
-  bio              : "PostDoctoral Research @ L2S - CentraleSupélec"
+  bio              : "Postdoctoral Researcher, L2S — CentraleSupélec"
   location         : "Paris, France"
-  employer         : "CNRS"
+  employer         : "CNRS / Université Paris-Saclay"
   uri              : # URL
   email            : "tigran.galstyan@l2s.centralesupelec.fr"
 
@@ -74,12 +74,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -133,7 +133,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "/images/pfp.jpg"  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
