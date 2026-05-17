@@ -15,7 +15,6 @@ My work has appeared at ICML, AISTATS, CVPR, *Electronic Journal of Statistics*,
 
 ## Selected publications
 
-- Nurijanyan, N., Tamazyan, H., **Galstyan, T.** *Teaching Visual Language Models to Navigate using Maps.* 7th Robot Learning Workshop, 2025.
 - Vardanyan, E., Minasyan, A., Hunanyan, S., **Galstyan, T.**, Dalalyan, A. *Statistically Optimal Generative Modeling with Maximum Deviation from the Empirical Distribution.* ICML, 2024.
 - Minasyan, A., **Galstyan, T.**, Hunanyan, S., Dalalyan, A. *Matching Map Recovery with an Unknown Number of Outliers.* AISTATS, 2023.
 - **Galstyan, T.**, Minasyan, A., Dalalyan, A. *Optimal detection of the feature matching map in presence of noise and outliers.* Electronic Journal of Statistics, 2022.
